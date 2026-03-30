@@ -1,2 +1,2 @@
-# antichoques-GINM
-Robot con sensor ultrasónico y driver L298N que se detiene antes de colisionar (proyecto de bachillerato)
+# -GINM
+Autonomous Obstacle Avoidance System using Ultrasonic Sensors and L298N Power Control. Real-time control logic implementation for enhanced perimeter security.
