@@ -1,5 +1,7 @@
 # Antichoques GINM - Sistema de Seguridad Perimetral para Robótica
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Descripción
 Sistema de control en tiempo real para detección de obstáculos y prevención de colisiones en plataformas robóticas. Utiliza sensores de proximidad y lógica difusa para tomar decisiones de evasión.
 
